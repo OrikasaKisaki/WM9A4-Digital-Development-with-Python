@@ -1,0 +1,235 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Warwick Ramen Stand</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f8f8;
+            color: #333;
+        }
+
+        .header {
+            background-color: #ff6f61;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+        }
+
+        .content {
+            padding: 20px;
+        }
+
+        #ramen-menu {
+            background-color: #ffe6cc;
+            padding: 15px;
+            border-radius: 5px;
+        }
+
+        .menu-item {
+            color: #ff4500;
+            font-weight: italic;
+        }
+
+        .footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 5px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body data-new-gr-c-s-check-loaded="14.1149.0" data-gr-ext-installed="">
+
+    <div class="header">
+        <h1 id="stand-name">Warwick Ramen Stand</h1>
+    </div>
+
+    <div class="content">
+        <a href="https://warwick.ac.uk" target="_blank"> University of Warwick</a>
+        <p>Discover the authentic taste of Japan!</p>
+        <div id="ramen-menu">
+            <h2>Our Menu</h2>
+            <p class="menu-item">Tonkotsu Ramen</p>
+            <img src="https://tokyo-kitchen.icook.network/uploads/step/cover/1858737/cedd5c5e0600fd2c.jpg"
+                alt="Tonkotsu Ramen" height="200" width="200">
+            <p class="menu-item">Shoyu Ramen</p>
+            <img src="https://tabiiro.travel/img/articles/19111801/main.jpg" alt="Shoyu Ramen" height="200" width="200">
+            <p class="menu-item">Miso Ramen</p>
+            <img src="https://content.fun-japan.jp/renewal-prod/cms/articles/content/dc13f97833cc912e9d56b7e880aefcebc48bcbbb.jpg"
+                alt="Miso Ramen" height="200" width="200">
+        </div>
+        <div id="Opening Hours" style="
+    background-color: honeydew;
+    font-size: larger;
+    font-variant: small-caps;
+">
+            <h3>Opening Hours</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th> DAY </th>
+                        <th> HOURS </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td> Mon-Fri: </td>
+                        <td> 11am - 8pm </td>
+                    </tr>
+                    <tr>
+                        <td> Sat: </td>
+                        <td> 11am - 5pm </td>
+                    </tr>
+                    <tr>
+                        <td> Sun: </td>
+                        <td> CLOSED </td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <div id="push"></div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+    <div class="footer">
+        <p>Visit us outside MEC!</p>
+    </div>
+
+
+
+    <deepl-input-controller></deepl-input-controller>
+    <grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration>
+
+</body>
+
+</html><html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Warwick Ramen Stand</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f8f8;
+            color: #333;
+        }
+
+        .header {
+            background-color: #ff6f61;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+        }
+
+        .content {
+            padding: 20px;
+        }
+
+        #ramen-menu {
+            background-color: #ffe6cc;
+            padding: 15px;
+            border-radius: 5px;
+        }
+
+        .menu-item {
+            color: #ff4500;
+            font-weight: italic;
+        }
+
+        .footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 5px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body data-new-gr-c-s-check-loaded="14.1149.0" data-gr-ext-installed="">
+
+    <div class="header">
+        <h1 id="stand-name">Warwick Ramen Stand</h1>
+    </div>
+
+    <div class="content">
+        <a href="https://warwick.ac.uk" target="_blank"> University of Warwick</a>
+        <p>Discover the authentic taste of Japan!</p>
+        <div id="ramen-menu">
+            <h2>Our Menu</h2>
+            <p class="menu-item">Tonkotsu Ramen</p>
+            <img src="https://tokyo-kitchen.icook.network/uploads/step/cover/1858737/cedd5c5e0600fd2c.jpg"
+                alt="Tonkotsu Ramen" height="200" width="200">
+            <p class="menu-item">Shoyu Ramen</p>
+            <img src="https://tabiiro.travel/img/articles/19111801/main.jpg" alt="Shoyu Ramen" height="200" width="200">
+            <p class="menu-item">Miso Ramen</p>
+            <img src="https://content.fun-japan.jp/renewal-prod/cms/articles/content/dc13f97833cc912e9d56b7e880aefcebc48bcbbb.jpg"
+                alt="Miso Ramen" height="200" width="200">
+        </div>
+        <div id="Opening Hours" style="
+    background-color: honeydew;
+    font-size: larger;
+    font-variant: small-caps;
+">
+            <h3>Opening Hours</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th> DAY </th>
+                        <th> HOURS </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td> Mon-Fri: </td>
+                        <td> 11am - 8pm </td>
+                    </tr>
+                    <tr>
+                        <td> Sat: </td>
+                        <td> 11am - 5pm </td>
+                    </tr>
+                    <tr>
+                        <td> Sun: </td>
+                        <td> CLOSED </td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <div id="push"></div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+    <div class="footer">
+        <p>Visit us outside MEC!</p>
+    </div>
+
+
+
+    <deepl-input-controller></deepl-input-controller>
+    <grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration>
+
+</body>
+
+</html>
